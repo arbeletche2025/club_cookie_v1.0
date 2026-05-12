@@ -122,7 +122,7 @@ def club_form():
 
           <div style="padding:30px 26px;">
             <p style="text-align:center;color:#444;font-size:16px;line-height:1.6;margin-top:0;margin-bottom:24px;">
-              Completá tus datos para ser parte del club TWC
+              Completá tus datos para ser parte del club TCW
             </p>
 
             <form method="post" action="/club">
